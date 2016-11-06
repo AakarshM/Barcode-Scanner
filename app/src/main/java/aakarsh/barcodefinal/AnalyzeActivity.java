@@ -61,7 +61,8 @@ public class AnalyzeActivity extends AppCompatActivity {
     public void VolleyMethod(){
         bar.setVisibility(View.VISIBLE);
         RequestQueue queue = Volley.newRequestQueue(this);
-        String url ="https://api.nutritionix.com/v1_1/item?upc=" + barcode +"&appId=7cc6160a&appKey=3ca3a32981aeedf4eae952fbd6895acc";
+        String url ="https://api.nutritionix.com/v1_1/item?upc=" + barcode +"&appId=[app id]&appKey=[app key]";
+        // appID/key hidden for terms reasons.
         StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
                 new Response.Listener<String>() {
                     @Override
