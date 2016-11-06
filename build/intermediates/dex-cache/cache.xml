@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_23dabcbc68942d8bd53b607d5ca2ad0795a3bb97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a728894bc02722489e0c0393761dd8cd90a48d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_1c6d8e88611a83dba4cbd7b2d6b286d5861b6993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_2c00ec985d73cfeda572d68b525b8cbc1f5953e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_57d44ba1349754330ac114e066dc3dc6cad7dbfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_957d0e3cbfc050a66267c2bbf1f3b3a77214c121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\core-3.2.1_5477f363968bb8001a0435716f41787e797c40ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.4.0_8f9b7ab68dd8ab79ee2563c965e8202370fdec0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a728894bc02722489e0c0393761dd8cd90a48d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_957d0e3cbfc050a66267c2bbf1f3b3a77214c121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_23dabcbc68942d8bd53b607d5ca2ad0795a3bb97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_07611915f061016af0972c59974667ef58d3a78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_1c6d8e88611a83dba4cbd7b2d6b286d5861b6993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_57d44ba1349754330ac114e066dc3dc6cad7dbfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0ff946bb5d172bedbceb878f2c1c6fbfc13b455e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0ff946bb5d172bedbceb878f2c1c6fbfc13b455e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_761211b04bd4558b7addc9c86cde2ed422e758ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ddf85b7f27346a78dfc7caf42ea6ac7063e5c0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_07611915f061016af0972c59974667ef58d3a78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ddf85b7f27346a78dfc7caf42ea6ac7063e5c0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_3ae14beb34d4ac0ce8596be4818bb5b5a9a5e5dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_2c00ec985d73cfeda572d68b525b8cbc1f5953e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_3ae14beb34d4ac0ce8596be4818bb5b5a9a5e5dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c696916baeef80610006c34883b4ea534768a9fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_761211b04bd4558b7addc9c86cde2ed422e758ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_877236140579c7ebdafc90b3620b300cdbc03d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c696916baeef80610006c34883b4ea534768a9fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_5f02d6c51525e433da9b92ac742196ffde91287e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.4.0_8f9b7ab68dd8ab79ee2563c965e8202370fdec0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\core-3.2.1_5477f363968bb8001a0435716f41787e797c40ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_621b0226ad06b9010cc968bb226dd2d6c0e9a3dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_877236140579c7ebdafc90b3620b300cdbc03d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_5f02d6c51525e433da9b92ac742196ffde91287e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_621b0226ad06b9010cc968bb226dd2d6c0e9a3dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_65c0efbd3f949a80619963861f3ad59d0feef87d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\AakarshM\OneDrive - University of Waterloo\Projects\Android\BarcodeFinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_65c0efbd3f949a80619963861f3ad59d0feef87d.jar" />
+    </item>
+
+</items>
